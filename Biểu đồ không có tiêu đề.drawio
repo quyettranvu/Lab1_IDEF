@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T21:40:14.492Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="mkOycg-5s2xmMwyl61Jt" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T21:43:18.070Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g4sl-ftcNmzHCd91o1PU" version="20.5.3" type="github">
   <diagram id="d5x8dhA6pELKXG6CopPJ" name="Trang-1">
     <mxGraphModel dx="1038" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1327" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -85,7 +85,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-26" value="Изменения" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="-850" width="90" height="30" as="geometry" />
+          <mxGeometry x="350" y="-820" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-29" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;rounded=1;entryX=0.981;entryY=1.127;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="YUuOF8b1A90oDXZzr_tI-17" target="YUuOF8b1A90oDXZzr_tI-30" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -145,7 +145,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUuOF8b1A90oDXZzr_tI-46" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" target="YUuOF8b1A90oDXZzr_tI-17" edge="1">
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-46" value="" style="endArrow=classic;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;" parent="1" target="YUuOF8b1A90oDXZzr_tI-17" edge="1" source="Ix8Unh2yF4nEl3ecXF4y-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="330" y="-690" as="sourcePoint" />
             <mxPoint x="760" y="-720" as="targetPoint" />
@@ -275,9 +275,6 @@
         <mxCell id="Ix8Unh2yF4nEl3ecXF4y-7" value="Стандарты программирования" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="-950" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-8" value="Senior дизайны" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="-700" width="110" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="Ix8Unh2yF4nEl3ecXF4y-9" value="Дизайны" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="-850" width="70" height="30" as="geometry" />
         </mxCell>
@@ -294,6 +291,34 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="-1015" as="sourcePoint" />
             <mxPoint x="100" y="-1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-17" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YUuOF8b1A90oDXZzr_tI-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="-1050" as="sourcePoint" />
+            <mxPoint x="450" y="-890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-18" value="Стандарты рисования" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-1070" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-19" value="" style="endArrow=classic;html=1;rounded=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="YUuOF8b1A90oDXZzr_tI-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="-1010" as="sourcePoint" />
+            <mxPoint x="450" y="-890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-20" value="Стандары архитектуры" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="475" y="-1030" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-8" value="Senior дизайны" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="365" y="-725" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ix8Unh2yF4nEl3ecXF4y-21" value="" style="endArrow=none;html=1;fontSize=12;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Ix8Unh2yF4nEl3ecXF4y-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="-690" as="sourcePoint" />
+            <mxPoint x="700" y="-790" as="targetPoint" />
+            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
