@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T11:48:10.841Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="0T45YsaDpby9NIMty9p6" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T11:58:13.520Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="1cRgwObg5YXdnSUanrqU" version="20.5.3" type="github">
   <diagram id="d5x8dhA6pELKXG6CopPJ" name="Trang-1">
     <mxGraphModel dx="1038" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1027" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -39,13 +39,50 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-9" value="Дизайн и интерфейс приложения" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-990" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="-1110" as="sourcePoint" />
             <mxPoint x="370" y="-1110" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-13" value="" style="endArrow=classic;html=1;rounded=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="-1110" as="sourcePoint" />
+            <mxPoint x="690" y="-850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="-1110" />
+              <mxPoint x="660" y="-1110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-17" value="рассмотрение и утверждение дизайнов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="-850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-18" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="YUuOF8b1A90oDXZzr_tI-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="-950" as="sourcePoint" />
+            <mxPoint x="509.1600000000001" y="-887.62" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="470" y="-950" />
+              <mxPoint x="470" y="-820" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-20" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;entryX=0.44;entryY=1.047;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="YUuOF8b1A90oDXZzr_tI-17" target="YUuOF8b1A90oDXZzr_tI-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="770" y="-800" as="sourcePoint" />
+            <mxPoint x="370" y="-750" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="820" y="-820" />
+              <mxPoint x="820" y="-750" />
+              <mxPoint x="363" y="-750" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-26" value="Изменения" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-850" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
