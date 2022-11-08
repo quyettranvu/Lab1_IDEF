@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T21:44:30.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="JLbtfJyFDKo9Lzj-SX5X" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-08T21:45:55.714Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TRzsUYeI-vt-l99Pdrk6" version="20.5.3" type="github">
   <diagram id="d5x8dhA6pELKXG6CopPJ" name="Trang-1">
     <mxGraphModel dx="1038" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1327" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="j6syIAILMl9BRk4zmWQf-1" value="Oбсуждение и планирование" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="j6syIAILMl9BRk4zmWQf-1" value="Oбсуждение и планирование&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 1" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="-1060" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-2" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.337;entryY=-0.027;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="j6syIAILMl9BRk4zmWQf-1" edge="1">
@@ -13,7 +13,7 @@
             <mxPoint x="440" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUuOF8b1A90oDXZzr_tI-5" value="Дизайн и интерфейс приложения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-5" value="Дизайн и интерфейс приложения&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 2" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="310" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-6" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.007;entryY=0.373;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="j6syIAILMl9BRk4zmWQf-1" target="YUuOF8b1A90oDXZzr_tI-5" edge="1">
@@ -40,7 +40,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUuOF8b1A90oDXZzr_tI-9" value="Дизайн архитектуры приложения" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-9" value="Дизайн архитектуры приложения&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="490" y="-990" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-12" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -59,7 +59,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUuOF8b1A90oDXZzr_tI-17" value="рассмотрение и утверждение дизайнов" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-17" value="Рассмотрение и утверждение дизайнов&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 4" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="640" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-18" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="YUuOF8b1A90oDXZzr_tI-17" edge="1">
@@ -164,7 +164,7 @@
         <mxCell id="YUuOF8b1A90oDXZzr_tI-48" value="Клиенты" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontSize=12;" parent="1" vertex="1">
           <mxGeometry x="630" y="-750" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="YUuOF8b1A90oDXZzr_tI-49" value="Приложение программирования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-49" value="Приложение программирования&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; 5" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="950" y="-850" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="YUuOF8b1A90oDXZzr_tI-50" value="" style="endArrow=classic;html=1;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" target="YUuOF8b1A90oDXZzr_tI-49" edge="1">
@@ -236,7 +236,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="YUuOF8b1A90oDXZzr_tI-64" value="Приложение программирования" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-64" value="Приложение программирования&lt;br&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;6" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1130" y="-740" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ix8Unh2yF4nEl3ecXF4y-1" value="" style="endArrow=classic;html=1;rounded=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="YUuOF8b1A90oDXZzr_tI-49" target="YUuOF8b1A90oDXZzr_tI-64">
