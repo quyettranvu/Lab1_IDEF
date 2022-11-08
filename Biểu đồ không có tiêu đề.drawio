@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2022-11-08T11:38:34.565Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="vbEsnc8FadgI6723vTra" version="20.5.3" type="github"><diagram id="d5x8dhA6pELKXG6CopPJ" name="Trang-1">jZJNb4MwDIZ/DcdKQCZKjyvrtkrrYePQc0Rcki0QFMKA/vqF4fChqlJPcR5/xH4djyRF96ZpxU+KgfRCn3UeefHCMPBJbI+B9Ei2cTSSXAuGbAapuIJLRdoIBvUq0CgljajWMFNlCZlZMaq1atdhFyXXr1Y0hxuQZlTe0rNgho80DrczfweRc/dyEO1GT0FdME5Sc8pUu0Dk4JFEK2VGq+gSkIN6Tpcx7/WOd2pMQ2keSfiO6v74fPw4yd3+6+fpWpw/Lxus8ktlgwNjs6Z3CmjVlAyGIr5H9i0XBtKKZoO3tUu3jJtC2ltgTSwH2kB3t89gmt7+G1AFGN3bEEyIUC/8MZvAd6SdFxA4VflCfBdHcef5VHuWxRqojLvOG/j3LT4yOfwB</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-08T11:40:38.653Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="TTTBlnj7Mid9rjyUxNYP" version="20.5.3" type="github">
+  <diagram id="d5x8dhA6pELKXG6CopPJ" name="Trang-1">
+    <mxGraphModel dx="1038" dy="1786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j6syIAILMl9BRk4zmWQf-1" value="Oбсуждение и планирование" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="-1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="YUuOF8b1A90oDXZzr_tI-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="-1040" as="sourcePoint" />
+            <mxPoint x="110" y="-1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
