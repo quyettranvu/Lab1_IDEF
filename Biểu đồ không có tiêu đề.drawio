@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-09T23:49:09.373Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="z79QdWFxhwO7YfCG6azC" version="20.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-11-09T23:57:47.548Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="OEZZlUCx0-yyXTHDSsSj" version="20.5.3" type="github" pages="8">
   <diagram id="cBB_ooI5ivimc5093uBY" name="A-0">
     <mxGraphModel dx="1038" dy="617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -878,6 +878,34 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CYMI8n4Lc32740y1LpNQ-1" value="Сбор, просматривание и анализ проектных моделах" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMI8n4Lc32740y1LpNQ-2" value="Кодирование тестовой программы для некоторых случаев" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CYMI8n4Lc32740y1LpNQ-3" value="Выполнение полной программы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="570" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BDjqiW_FUDpGv2oO4hbC-1" value="Проверка программы" style="rounded=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="740" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5WabrQF6uKKYoK5aHvSI-1" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYMI8n4Lc32740y1LpNQ-1" target="CYMI8n4Lc32740y1LpNQ-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="295" />
+              <mxPoint x="350" y="385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5WabrQF6uKKYoK5aHvSI-2" value="" style="endArrow=classic;html=1;rounded=1;fontSize=12;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CYMI8n4Lc32740y1LpNQ-2" target="CYMI8n4Lc32740y1LpNQ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="550" y="450" as="sourcePoint" />
+            <mxPoint x="600" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
